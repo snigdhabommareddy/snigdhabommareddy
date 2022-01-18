@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-snigdha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snigdha-bommareddy-292815190/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-snigdha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snigdha-bommareddy-292815190/)](https://www.linkedin.com/in/snigdha-bommareddy-292815190/)
 [![Website Badge](https://img.shields.io/badge/WebSite-snigdha-green)](https://snigdhabommareddy.github.io/myprofile/)
 
 I'm
